@@ -4,7 +4,7 @@
         expect (resultOfSomething).toBe(3);
     });
 }) */
-const spiderman = require ('./../app/heroInfo')
+const spiderman = require('./../app/heroInfo')
 
 describe ("Unit Tests for Spiderman class", () => {
     test ('1) Create an spiderman object', () =>{
